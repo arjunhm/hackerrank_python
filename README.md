@@ -2,12 +2,12 @@
 Solutions to problems under the Python section on HackerRank
 
 There are a total of 16 subdomains
-* [Introduction](https://www.hackerrank.com/domains/python/py-introduction) :smile:
-* [Basic Data Types](https://www.hackerrank.com/domains/python/py-basic-data-types) 
-* [String](https://www.hackerrank.com/domains/python/py-strings) 
-* [Sets](https://www.hackerrank.com/domains/python/py-sets) 
-* [Math](https://www.hackerrank.com/domains/python/py-math)
-* [Itertools](https://www.hackerrank.com/domains/python/py-itertools) 
+* [Introduction](https://www.hackerrank.com/domains/python/py-introduction) :white_check_mark:
+* [Basic Data Types](https://www.hackerrank.com/domains/python/py-basic-data-types) :white_check_mark:
+* [String](https://www.hackerrank.com/domains/python/py-strings) :white_check_mark:
+* [Sets](https://www.hackerrank.com/domains/python/py-sets) :white_check_mark:
+* [Math](https://www.hackerrank.com/domains/python/py-math) 
+* [Itertools](https://www.hackerrank.com/domains/python/py-itertools) :white_check_mark:
 * [Collections](https://www.hackerrank.com/domains/python/py-collections)
 * [Date and Time](https://www.hackerrank.com/domains/python/py-date-time)
 * [Errors and Exceptions](https://www.hackerrank.com/domains/python/errors-exceptions)
@@ -18,5 +18,3 @@ There are a total of 16 subdomains
 * [XML](https://www.hackerrank.com/domains/python/xml)
 * [Closures and Decorators](https://www.hackerrank.com/domains/python/closures-and-decorators)
 * [Numpy](https://www.hackerrank.com/domains/python/numpy)
-
-
